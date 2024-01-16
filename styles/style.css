@@ -273,9 +273,9 @@ nav .menu-item ul a {
 
 }
 
-/* dicount-section */
-.dicount-1 {
-    background-image: url(Images/Group39.png);
+/* discount-section */
+.discount-1 {
+    background-image:url(Images/Group39.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
@@ -284,7 +284,7 @@ nav .menu-item ul a {
 
 }
 
-.dicount-2 {
+.discount-2 {
     margin-top: 30px;
     background-image: url(Images/Group40.png);
     background-size: cover;
@@ -293,7 +293,7 @@ nav .menu-item ul a {
     display: flex;
 }
 
-.dicount-3 {
+.discount-3 {
     margin-top: 30px;
     background-image: url(Images/Group39.png);
     background-size: cover;
@@ -304,7 +304,7 @@ nav .menu-item ul a {
 
 }
 
-.dicount-section .dicount-card {
+.discount-section .discount-card {
     margin: 40px;
     width: 500px;
     border-radius: 16px;
@@ -312,14 +312,14 @@ nav .menu-item ul a {
     background: rgba(255, 255, 255, 0.80);
 }
 
-.dicount-section .dicount-card .discout-icons {
+.discount-section .discount-card .discount-icons {
     display: flex;
     gap: 5px;
     flex-wrap: wrap;
 
 }
 
-.dicount-section .dicount-card .discount-price {
+.discount-section .discount-card .discount-price {
     color: #FF5400;
     font-size: 1.4rem;
     font-weight: 800;
@@ -578,10 +578,10 @@ footer{
         grid-column: 1 / span 12;
     }
 
-    /* dicount section */
-    .dicount-1,
-    .dicount-2,
-    .dicount-3 {
+    /* discount section */
+    .discount-1,
+    .discount-2,
+    .discount-3 {
         height: 500px;
         padding: 0;
         background-position: center;
@@ -589,10 +589,10 @@ footer{
         align-items: end;
     }
 
-    .dicount-section .dicount-card {
+    .discount-section .discount-card {
         padding: 20px;
     }
-    .dicount-section .dicount-card .discount-price {
+    .discount-section .discount-card .discount-price {
         font-size: 1.3rem;
     
     }
