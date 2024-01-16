@@ -60,8 +60,6 @@ main {
 
 }
 
-
-
 /* header section */
 nav {
     display: flex;
@@ -177,7 +175,7 @@ nav .menu-item ul a {
     width: 100%;
 }
 
-/* destination section */
+
 .destination-section {
     text-align: center;
 
@@ -189,7 +187,7 @@ nav .menu-item ul a {
 } 
 
 .destination-places {
-    /* border: 2px solid green; */
+    
     display: grid;
 
     gap: 10px;
@@ -237,14 +235,14 @@ nav .menu-item ul a {
     grid-column: 6 / span 8;
 }
 
-/* choose-us-section */
+
 .choose-us-card .card-1,
 .card-2,
 .card-3 {
     width: 550px;
     padding: 40px;
     border-radius: 16px;
-    /* border: 2px solid; */
+     border: 2px solid; 
 
 }
 
@@ -534,8 +532,7 @@ footer{
         visibility: visible;
     }
 
-    /* main section */
-    /* popular section */
+    
     .popular {
         flex-direction: column;
     }
@@ -549,7 +546,7 @@ footer{
         width: 100%;
     }
 
-    /* destination-section  */
+    
     .destination-places .img-1 {
         grid-column: 1 / span 12;
     }
@@ -597,12 +594,12 @@ footer{
     
     }
 
-    /* video section */
+    
     .video-content {
         flex-direction: column;
     }
 
-    /* newsletter section */
+    
     .newsletter-content {
         flex-direction: column;
     }
