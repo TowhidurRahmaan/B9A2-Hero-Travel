@@ -112,7 +112,7 @@ nav .menu-item ul a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    object-fit: cover;
+   
     padding: 100px 170px;
 
 }
@@ -183,10 +183,10 @@ nav .menu-item ul a {
 
 }
 
-/* .destination-content {
+ .destination-content {
     margin-top: 100px;
     margin-bottom: 50px;
-} */
+} 
 
 .destination-places {
     /* border: 2px solid green; */
@@ -602,7 +602,7 @@ footer{
         flex-direction: column;
     }
 
-    /* newaletter section */
+    /* newsletter section */
     .newsletter-content {
         flex-direction: column;
     }
