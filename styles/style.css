@@ -293,7 +293,7 @@ nav .menu-item ul a {
 
 .discount-3 {
     margin-top: 30px;
-    background-image: url(Images/Group39.png);
+    background-image: url(Images/maldivs.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
@@ -325,9 +325,10 @@ nav .menu-item ul a {
 
 }
 
-/* video section */
 .video-section {
     margin-top: 100px;
+    margin-bottom: 100px;
+    
 }
 
 .video-content {
@@ -340,7 +341,6 @@ nav .menu-item ul a {
     width: 50%;
 }
 
-/* newsletter-section */
 
 .newsletter-section {
     margin-top: 100px;
@@ -424,7 +424,6 @@ nav .menu-item ul a {
     font-size: 2rem;
 }
 
-/* reviews section */
 .reviews-section{
     margin-top: 100px;
     text-align: center;
@@ -466,7 +465,7 @@ nav .menu-item ul a {
     margin-bottom: 10px;
 }
 
-/* footer section */
+
 footer{
     text-align: center;
     background: rgba(19, 19, 24, 0.05);
