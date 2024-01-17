@@ -196,7 +196,7 @@ nav .menu-item ul a {
 .destination-places img {
     width: calc(100% - 10px);
     height: calc(100% - 10px);
-    /* border: 2px solid; */
+    
 }
 
 .destination-country {
@@ -271,7 +271,7 @@ nav .menu-item ul a {
 
 }
 
-/* discount-section */
+
 .discount-1 {
     background-image: url(https://imageio.forbes.com/specials-images/imageserve/65280003a36cd6aea36f399a/Maldives-hotel-beach-resort-on-tropical-Island-with-aerial-drone-view/0x0.jpg?format=jpg&height=1406&width=2501);
     background-size: cover;
@@ -434,31 +434,31 @@ nav .menu-item ul a {
     flex-wrap: wrap;
 }
 .customer-card{
-    width: 500px;
+    width: 400px;
     padding: 30px;
-    text-align: left;
-    margin: 20px;
-    border: 1px solid rgba(233, 68, 68, 0.20);
-    border-radius: 10px;
-    background: rgba(233, 68, 68, 0.05);
-    box-shadow: 10px 10px 20px rgb(255, 84, 0,0.2);
-    transition: box-shadow 0.3s ease-in-out;
+    text-align: center;
+    margin: 30px;
+    border: 0.3px solid orangered;
+    border-radius: 20px;
+    background: whitesmoke;
+    box-shadow: 10px 10px 10px rgb(107, 177, 200);
+    transition:box-shadow 0.3s ease;
 
 }
 .customer-card:hover{
-    box-shadow: none;
+    box-shadow:none;
 }
 .customer-card .customer-icon{
-    background-color: cadetblue;
-    display: inline-block;
-    padding: 20px;
-    border-radius: 50%;
-    margin-bottom: 10px;
+    background-color:transparent;
+    display:flexbox;
+    padding: 15px;
+    border-radius: 30%;
+    margin-bottom: 5px;
 
 }
 .customer-card .customer-name{
-    font-size: 1.4rem;
-    margin-bottom: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
 }
 .customer-card .review{
     color: #FF5400;
