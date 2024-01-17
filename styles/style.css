@@ -276,6 +276,7 @@ nav .menu-item ul a {
     background-image: url(https://imageio.forbes.com/specials-images/imageserve/65280003a36cd6aea36f399a/Maldives-hotel-beach-resort-on-tropical-Island-with-aerial-drone-view/0x0.jpg?format=jpg&height=1406&width=2501);
     background-size: cover;
     background-repeat: no-repeat;
+    border-radius: 20px;
     padding: 30px;
     display: flex;
     justify-content: end;
@@ -287,6 +288,7 @@ nav .menu-item ul a {
     background-image: url(https://ae.theentertainerme.com/wp-content/uploads/sites/7/2020/05/HubHeaderMaldive5HotelsDXB.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    border-radius: 20px;
     padding: 30px;
     display: flex;
 }
@@ -297,6 +299,7 @@ nav .menu-item ul a {
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
+    border-radius: 20px;
     display: flex;
     justify-content: end;
 
