@@ -106,7 +106,7 @@ nav .menu-item ul a {
 .banner-img {
     /* border: 2px solid red; */
     border-radius: 16px;
-    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(Images/Group13.png);
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url(https://cutewallpaper.org/28/desktop-wallpaper-island/692715358.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -273,18 +273,18 @@ nav .menu-item ul a {
 
 /* discount-section */
 .discount-1 {
-    background-image:url(Images/Group39.png);
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/65280003a36cd6aea36f399a/Maldives-hotel-beach-resort-on-tropical-Island-with-aerial-drone-view/0x0.jpg?format=jpg&height=1406&width=2501);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
     display: flex;
     justify-content: end;
-
 }
+
 
 .discount-2 {
     margin-top: 30px;
-    background-image: url(Images/Group40.png);
+    background-image: url(https://ae.theentertainerme.com/wp-content/uploads/sites/7/2020/05/HubHeaderMaldive5HotelsDXB.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
@@ -293,7 +293,7 @@ nav .menu-item ul a {
 
 .discount-3 {
     margin-top: 30px;
-    background-image: url(Images/maldivs.png);
+    background-image: url(https://imageio.forbes.com/specials-images/imageserve/65280003a36cd6aea36f399a/Maldives-hotel-beach-resort-on-tropical-Island-with-aerial-drone-view/0x0.jpg?format=jpg&height=1406&width=2501);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px;
