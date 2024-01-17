@@ -464,6 +464,17 @@ nav .menu-item ul a {
     color: #FF5400;
     margin-bottom: 10px;
 }
+.show-all{
+    margin-top: 20px;
+    padding: 10px;
+    color: #FF5400;
+    font-size: 1.1rem;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 15px;
+    border-color: #FF5400;
+    
+}
 
 
 footer{
